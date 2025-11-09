@@ -11,4 +11,16 @@
         Me.Copia_de_Tabla1TableAdapter.Fill(Me.PruebaDataSet.Copia_de_Tabla1)
 
     End Sub
+
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+
+    End Sub
+
+    Private Sub SELECCIONAR_Click(sender As Object, e As EventArgs) Handles SELECCIONAR.Click
+
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+    End Sub
 End Class
